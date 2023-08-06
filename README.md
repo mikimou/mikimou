@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michal Hicz</h1>
 
+<h3>I mainly focus on networking and automation.</h3>
+
 - 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://michalhicz.eu/](https://michalhicz.eu/)
