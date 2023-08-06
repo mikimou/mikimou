@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michal Hicz</h1>
 
-<h3>I mainly focus on networking and automation.</h3>
+<h3>I mainly focus on networking and automation, but sometimes my curiosity takes me elsewhere.</h3>
 
 - 🌱 I’m currently learning **Golang**
 
