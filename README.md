@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Michal Hicz</h1>
-<a href="https://www.credly.com/badges/b58fba54-5496-4ece-9741-52a6140b83fd/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="ccna" width="80" height="80"/>
-
 
 <h3>I mainly focus on networking and automation, but sometimes my curiosity takes me elsewhere.</h3>
 
@@ -9,6 +7,10 @@
 - 👨‍💻 All of my projects are available at [https://michalhicz.eu/](https://michalhicz.eu/)
 
 - 📫 How to reach me **michal07.h@gmail.com**
+
+<h3 align="left">My badges:</h3>
+<a href="https://www.credly.com/badges/b58fba54-5496-4ece-9741-52a6140b83fd/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="ccna" width="80" height="80"/>
+
 
 <h3 align="left">Tech I mostly use:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
