@@ -9,6 +9,7 @@
 - 📫 How to reach me **michal07.h@gmail.com**
 
 
+<h3 align="left">Links:</h3>
 <a href="https://www.credly.com/users/michal-hicz" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mikimou/mikimou/main/button%20(7).png" width="60" height="30"/>
 
 
