@@ -8,9 +8,6 @@
 
 - 📫 How to reach me **michal07.h@gmail.com**
 
-<h3 align="left">My badges:</h3>
-<a href="https://www.credly.com/badges/b58fba54-5496-4ece-9741-52a6140b83fd/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="ccna" width="40" height="40"/>
-
 
 <h3 align="left">Tech I mostly use:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -31,3 +28,5 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 
+<h3 align="left">My badges:</h3>
+<a href="https://www.credly.com/badges/b58fba54-5496-4ece-9741-52a6140b83fd/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="ccna" width="40" height="40"/>
