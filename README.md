@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Michal Hicz</h1>
+<a href="https://www.credly.com/badges/b58fba54-5496-4ece-9741-52a6140b83fd/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="ccna" width="80" height="80"/>
+
 
 <h3>I mainly focus on networking and automation, but sometimes my curiosity takes me elsewhere.</h3>
 
 - 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://michalhicz.eu/](https://michalhicz.eu/)
-
-<a href="https://www.credly.com/badges/b58fba54-5496-4ece-9741-52a6140b83fd/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="ccna" width="40" height="40"/>
 
 - 📫 How to reach me **michal07.h@gmail.com**
 
