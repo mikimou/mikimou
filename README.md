@@ -11,6 +11,8 @@
 
 <h3 align="left">Links:</h3>
 <a href="https://www.credly.com/users/michal-hicz" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mikimou/mikimou/main/button%20(7).png" width="60" height="30"/>
+<a href="https://michalhicz.eu" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mikimou/mikimou/main/button%20(8).png" width="60" height="30"/>
+<a href="https://portal.michalhicz.eu" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mikimou/mikimou/main/button%20(9).png" width="60" height="30"/>
 
 
 <h3 align="left">Tech I mostly use:</h3>
