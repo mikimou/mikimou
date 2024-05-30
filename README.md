@@ -2,8 +2,6 @@
 
 <h3>I mainly focus on networking and automation, but sometimes my curiosity takes me elsewhere.</h3>
 
-- 🌱 I’m currently learning **Golang**
-
 - 👨‍💻 All of my projects are available at [https://michalhicz.eu/](https://michalhicz.eu/)
 
 - 📫 How to reach me **michal07.h@gmail.com**
